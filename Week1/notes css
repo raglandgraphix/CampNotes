@@ -1,0 +1,2 @@
+display: flex. This solves a lot of problems I have had. Is this css3?
+justify-content. This puts a space around objects and justifies it. Where has this been all my life? It goes on the parent and the children are spaced.
