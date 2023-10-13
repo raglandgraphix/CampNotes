@@ -1,4 +1,7 @@
-display: flex. This solves a lot of problems I have had. Is this css3?
+display flex. This solves a lot of problems I have had. Is this css3?
 justify-content. This puts a space around objects and justifies it. Where has this been all my life? It goes on the parent and the children are spaced.
 The previous 2 items were new as part of flexbox on css3.
+line height should actually be 1.5. It is by defaault 1.2, but this is much too small.
+what doe ch do?
+
 
